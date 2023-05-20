@@ -1,0 +1,27 @@
+body {
+  background-color: #000000;
+}
+
+
+
+
+h1 {
+  font: 50px Monaco, monospace;
+  text-align: center;
+  color: #ffffff;
+}
+
+h2 {
+  font: 30px Monaco, monospace;
+  text-align: center;
+  color: #ffffff;
+  margin-left: -300px;
+}
+
+p {
+  font: 20px Monaco, monospace;
+  text-align: center;
+  color: #ffffff;
+  margin-left: -280px;
+}
+

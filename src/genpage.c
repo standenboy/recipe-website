@@ -44,6 +44,7 @@ void printHtmlTitle(char name[]){
 	"<html>\n"
 	"<head>\n"
 	"<title>%s</title>\n"
+	"<link rel=\"stylesheet\" href=\"../src/style.css\">\n"
 	"</head>\n"
 	"<body>\n",name);
 }
