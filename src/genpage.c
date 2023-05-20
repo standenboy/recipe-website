@@ -73,7 +73,7 @@ void printHtmlInstructionsList(char instruction[]){
 }
 
 void printHtmlFooter(){
-	printf("\n</body>"
+	printf("\n</body>\n"
 	"</html>\n");
 }
 
