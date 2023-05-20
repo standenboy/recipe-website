@@ -2,8 +2,12 @@ body {
   background-color: #000000;
 }
 
-
-
+a {
+  font: 15px Monaco, monospace;
+  text-align:center;
+  display:block;
+  color: #ffffff;
+}
 
 h1 {
   font: 50px Monaco, monospace;
@@ -15,13 +19,11 @@ h2 {
   font: 30px Monaco, monospace;
   text-align: center;
   color: #ffffff;
-  margin-left: -300px;
 }
 
 p {
   font: 20px Monaco, monospace;
   text-align: center;
   color: #ffffff;
-  margin-left: -280px;
 }
 

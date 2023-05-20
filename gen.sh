@@ -1,5 +1,7 @@
 #!/bin/sh
 
+rm -rf ./htmlRecipes/*
+
 array=(./recipes/*)
 
 
@@ -8,4 +10,7 @@ do
 echo $i | cut -d '/' -f 3
 ./genpage $i > htmlRecipes/$(echo $i | cut -d '/' -f 3).html
 done
+
+./genhome > index.html
+
 
