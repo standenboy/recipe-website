@@ -17,3 +17,20 @@ putting this at the start of the line will set an ingredient
 
 ```;``` 
 putting this will set a step for making
+
+# contributing
+this has been kept simple too
+
+just send a pull request into this repo with your recipe in the recipes folder
+
+the more you send in the better this will be for everyone
+
+# actually seeing the site
+this site (for now) is something that you should run localy
+
+you can have it on a specific device and you just get your browser to open index.html
+
+or if you feel a bit more fancy you can host this on a raspbery pi and use it on your home network
+
+and if your really fancy you could use the same steps but on a vps and give it a spot on the web
+
