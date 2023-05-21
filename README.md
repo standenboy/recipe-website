@@ -9,14 +9,11 @@ it has simple workings using c to genterate html from a simple syntax system
 
 the syntax is as follows
 
-"#" 
-
+```#```
 putting this at the start of the line will set a title, dont use this more than once
 
-"*"
-
+```*```
 putting this at the start of the line will set an ingredient
 
-";" 
-
+```;``` 
 putting this will set a step for making
