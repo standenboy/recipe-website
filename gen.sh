@@ -1,5 +1,15 @@
 #!/bin/sh
 
+while (true)
+do
+
+rm -rf ./recipe-website
+
+git clone https://github.com/standenboy/recipe-website
+
+cp -r recipe-website/recipes/* recipes/ 
+
+
 rm -rf ./htmlRecipes/*
 
 array=(./recipes/*)
@@ -13,4 +23,9 @@ done
 
 ./genhome > index.html
 
+
+sleep 300
+
+
+done
 
