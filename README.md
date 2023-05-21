@@ -1,5 +1,5 @@
 # recipe-website
-a tool which lets you right recipes in simple syntax for it to be converted to html
+a tool which lets you write recipes in simple syntax for it to be converted to html
 
 the idea is simple, why should there be ads when you want to cook some food
 
